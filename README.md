@@ -137,7 +137,3 @@ The training code and the Soft Augmentation method belong to the original author
 2. Goodfellow, I. J., Shlens, J., Szegedy, C. *Explaining and Harnessing Adversarial Examples.* ICLR 2015. (FGSM)
 3. Madry, A., Makelov, A., Schmidt, L., Tsipras, D., Vladu, A. *Towards Deep Learning Models Resistant to Adversarial Attacks.* ICLR 2018. (PGD)
 
-## Author
-
-**Malaika** — self-taught AI student documenting research in machine learning and security.
-[GitHub](https://github.com/malaika-nadeem) · [Substack](https://frankenstein7.substack.com)
